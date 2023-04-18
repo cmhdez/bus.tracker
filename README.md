@@ -1,2 +1,1 @@
-# bus.tracker
- Real Time Bus Trackers
+The following is Project is based on Real Time Bus Tracker of the Route 1 between MIT and Havard campus in Boston MA, using publicly ablaible data via MBTA API, in order to learn a diversity set of skills.
